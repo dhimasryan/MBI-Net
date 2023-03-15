@@ -40,6 +40,9 @@ Please kindly cite our paper, if you find this code is useful.
 <a id="1"></a> 
 Zezario, R.E., Chen, F., Fuh, C.-S., Wang, H.-M., Tsao, Y. (2022) MBI-Net: A Non-Intrusive Multi-Branched Speech Intelligibility Prediction Model for Hearing Aids. Proc. Interspeech 2022, 3944-3948, doi: 10.21437/Interspeech.2022-10838
 
+### Acknowledgement ###
+We are grateful that our system received the best non-intrusive system at <a href="https://claritychallenge.org/clarity2022-workshop/results.html" target="_blank">Clarity Prediction Challenge 2022</a> 
+
 ### Note ###
 
 <a href="https://github.com/CyberZHG/keras-self-attention" target="_blank">Self Attention</a>, <a href="https://github.com/grausof/keras-sincnet" target="_blank">SincNet</a>, <a href="https://github.com/microsoft/unilm/tree/master/wavlm" target="_blank">wavLM</a> are created by others
